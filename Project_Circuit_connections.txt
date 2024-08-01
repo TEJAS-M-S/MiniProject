@@ -1,0 +1,25 @@
+lcd-i2c:- brown - gnd  
+           red - vcc
+           orange - SDA
+           yellow - SCL
+SDA-A4
+SCL-A5
+
+Servo motor:-
+Controller-D9
+
+Buzzer:-
+Positive-D5
+
+Soil Mouister Sensor:-
+controller-A0
+
+IR Sersor:-
+Controller-D2
+
+LED's :-
+RED-D10
+GREEN-D11
+BLUE-D12
+
+
