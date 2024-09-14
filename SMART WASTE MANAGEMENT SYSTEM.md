@@ -14,4 +14,4 @@ Buzzer alerts notify personnel when bins are full, ensuring timely collection an
 
 4. Enhance Urban Cleanliness: By streamlining the waste management process, the system helps keep urban environments cleaner. This contributes to improved public health by reducing the risks associated with improperly managed waste.
 
-5. 5. Promote Sustainability: The system encourages proper waste disposal and recycling practices. By efficiently managing waste segregation and collection, it supports environmental conservation efforts and promotes a sustainable approach to waste management.
+ 5. Promote Sustainability: The system encourages proper waste disposal and recycling practices. By efficiently managing waste segregation and collection, it supports environmental conservation efforts and promotes a sustainable approach to waste management.
